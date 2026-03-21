@@ -45,7 +45,7 @@ streamlit run app.py
 ## 📷 Application Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home_page.png)
+![Home Page](home_page.png)
 
 ### Meal Planning
 ![Meal Plan](./screenshots/img_proj.jpg)
