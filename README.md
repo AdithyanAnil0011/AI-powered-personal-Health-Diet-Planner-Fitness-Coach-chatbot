@@ -45,19 +45,19 @@ streamlit run app.py
 ## 📷 Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](./screenshots/home_page.png)
 
 ### Meal Planning
-![Meal Plan](screenshots/img_proj.jpg)
+![Meal Plan](./screenshots/img_proj.jpg)
 
 ### Food Analysis
-![Food Analysis](screenshots/food_analysis.png)
+![Food Analysis](./screenshots/food_analysis.png)
 
 ### Health Insights
-![Health Insights](screenshots/health_insights.png)
+![Health Insights](./screenshots/health_insights.png)
 
 ### Health Metrics
-![Health Metrics](screenshots/health_metrics.png)
+![Health Metrics](./screenshots/health_metrics.png)
 
 ### AI Fitness Coach
-![Fitness Coach](screenshots/fitness_coach.png)
+![Fitness Coach](./screenshots/fitness_coach.png)
