@@ -42,22 +42,3 @@ The system also includes BMI calculation, calorie requirement estimation, and AI
 pip install -r requirements.txt
 streamlit run app.py
 
-## 📷 Application Screenshots
-
-### Home Page
-![Home Page](home_page.png)
-
-### Meal Planning
-![Meal Plan](./screenshots/img_proj.jpg)
-
-### Food Analysis
-![Food Analysis](./screenshots/food_analysis.png)
-
-### Health Insights
-![Health Insights](./screenshots/health_insights.png)
-
-### Health Metrics
-![Health Metrics](./screenshots/health_metrics.png)
-
-### AI Fitness Coach
-![Fitness Coach](./screenshots/fitness_coach.png)
