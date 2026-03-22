@@ -39,15 +39,22 @@ The system also includes BMI calculation, calorie requirement estimation, and AI
 
 ## ▶ How to Run
 ```bash
+
+1. Clone the Repository:
+git clone https://github.com/AdithyanAnil0011/AI-powered-personal-Health-Diet-Planner-Fitness-Coach-chatbot.git
+
+2. Install Dependencies:
 pip install -r requirements.txt
-streamlit run app.py
+
+3. Launch the App:
+python -m streamlit run app.py
+
 ```
 ---
 
 ## 👨‍💻 Author
 **Adithyan Anilkumar**  
-B.Tech Electronics and Communication Engineering  
-IIIT Kottayam  
+
 
 
 
