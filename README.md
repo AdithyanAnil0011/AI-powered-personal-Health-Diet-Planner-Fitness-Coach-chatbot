@@ -6,8 +6,9 @@
 
 ## 📌 Overview
 
-AI-Powered Personal Health & Fitness Assistant is an intelligent health companion built using Streamlit and Google Gemini API.  
-It helps users get personalized meal plans, analyze food images, calculate BMI and daily calorie requirements, and receive AI-driven fitness coaching to improve overall health and wellness.
+I have built an AI-Powered Personal Health & Fitness Assistant which is an intelligent health companion , using Streamlit and Google Gemini API.  
+The system analyzes user health data such as age, weight, height, BMI, activity level, and food preferences to generate customized meal plans, calorie recommendations, health insights, and fitness guidance. It also includes food image analysis, health metrics tracking, and an AI fitness coach powered by Generative AI.
+This project demonstrates the integration of Generative AI, health analytics, and intelligent recommendation systems to build an AI-based health assistant that helps users maintain a healthy lifestyle through personalized recommendations.
 
 ---
 
@@ -76,7 +77,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Application
 
 ```
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Your app will open in the browser automatically.
