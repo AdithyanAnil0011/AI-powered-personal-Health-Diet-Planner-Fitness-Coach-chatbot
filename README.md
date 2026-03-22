@@ -1,6 +1,6 @@
-# 🤖 AI-Powered Personal Health, Diet Planner & Fitness Assistant 🏋️‍♂️ #   (Web App)
+#  AI-Powered Personal Health, Diet Planner & Fitness Assistant 🏋️‍♂️ #  
 
-✨ Personalized Health | Smart Meal Plans | Fitness Guidance ✨
+✨ Streamlit | Personalized Health | Generative AI | Smart Meal Plans | Fitness Planning ✨  
 
 ---
 
