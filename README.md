@@ -41,4 +41,13 @@ The system also includes BMI calculation, calorie requirement estimation, and AI
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+---
+
+## 👨‍💻 Author
+**Adithyan Anilkumar**  
+B.Tech Electronics and Communication Engineering  
+IIIT Kottayam  
+
+
 
