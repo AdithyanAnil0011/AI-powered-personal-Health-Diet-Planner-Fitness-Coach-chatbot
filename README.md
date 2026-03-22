@@ -39,11 +39,10 @@ It helps users get personalized meal plans, analyze food images, calculate BMI a
 ## 📂 Project Structure
 
 ```
-AI-Study-Buddy/
+AI-Health-Fitness-App/
+│── screenshots            # contains the UI images of the Application
 │── app.py                 # Main Streamlit app
-│── ai_functions.py        # AI logic and Gemini API integration
 │── requirements.txt       # Project dependencies
-│── .env                  # API key (not pushed to GitHub)
 │── README.md              # Project documentation
 ```
 
