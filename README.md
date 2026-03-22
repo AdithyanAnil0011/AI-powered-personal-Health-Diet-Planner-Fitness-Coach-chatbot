@@ -6,14 +6,14 @@ Streamlit • Generative AI • Health Analytics • Fitness Planning
 
 ---
 
-## 📌 Project Overview
+<h2>📌 Project Overview</h2>
 This project is an AI-powered Personal Health, Diet Planner and Fitness Assistant built using Python and Streamlit. The application uses Google Gemini AI to generate personalized meal plans, health insights, food analysis, and fitness coaching based on the user's health profile.
 
 The system also includes BMI calculation, calorie requirement estimation, and AI-based nutrition and fitness recommendations.
 
 ---
 
-## 🚀 Features
+<h2>🚀 Key Features</h2>
 - Personalized Meal Planning
 - Food Image Analysis
 - Health Insights using AI
@@ -25,7 +25,7 @@ The system also includes BMI calculation, calorie requirement estimation, and AI
 
 ---
 
-## 🛠 Technologies Used
+<h2>🛠 Technologies Used</h2>
 - Python
 - Streamlit
 - Google Gemini API
@@ -37,22 +37,18 @@ The system also includes BMI calculation, calorie requirement estimation, and AI
 
 ---
 
-## ▶ How to Run
-```bash
-
-1. Clone the Repository:
+<h2>▶ How to Run</h2>
+<pre><code># Clone the Repository
 git clone https://github.com/AdithyanAnil0011/AI-powered-personal-Health-Diet-Planner-Fitness-Coach-chatbot.git
 
-2. Install Dependencies:
+# Install Dependencies
 pip install -r requirements.txt
 
-3. Launch the App:
-python -m streamlit run app.py
-
-```
+# Launch the App
+python -m streamlit run app.py</code></pre>
 ---
 
-## 👨‍💻 Author
+<h2>👨‍💻 Author</h2>
 **Adithyan Anilkumar**  
 
 
